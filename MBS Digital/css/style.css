@@ -552,9 +552,7 @@ a:focus {
 
 .info_section .info_social a {
   display: flex;
-
   justify-content: center;
-
   align-items: center;
   color: #063547;
   width: 30px;
